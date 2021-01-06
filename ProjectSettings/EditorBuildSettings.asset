@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/credits.unity
     guid: 3984b0dcbff38b240964429206cf83ef
+  - enabled: 1
+    path: Assets/Scenes/first_game.unity
+    guid: 0ed5995b2d5b2df4dacef2ccc26c7abd
+  - enabled: 1
+    path: Assets/Scenes/second_game.unity
+    guid: 9800272da2512c94a8bfd09e304ba7cf
+  - enabled: 1
+    path: Assets/Scenes/third_game.unity
+    guid: 11c12f992153b3e439bf999af94507a6
   m_configObjects: {}
